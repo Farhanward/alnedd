@@ -1,0 +1,22 @@
+[
+  {
+    "name": "almandoub",
+    "path": "C:/Projects/almandoub",
+    "role": "customer_messages"
+  },
+  {
+    "name": "alkhaliya",
+    "path": "C:/Projects/alkhaliya",
+    "role": "automation"
+  },
+  {
+    "name": "almasna_altaswiqi",
+    "path": "C:/Projects/almasna_altaswiqi",
+    "role": "marketing"
+  },
+  {
+    "name": "alharis_alsahabi",
+    "path": "C:/Projects/alharis_alsahabi",
+    "role": "sre"
+  }
+]

@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "alnedd"
+version = "1.0.0"
+authors = [{ name = "Farhan Almutairi", email = "far7an.o88@gmail.com" }]
+description = "Business control plane for local modules."
+requires-python = ">=3.11"
+readme = "README.md"
+license = { text = "Proprietary" }
+
+[project.scripts]
+alnedd = "alnedd.cli:main"
+
+[tool.setuptools]
+packages = ["alnedd"]
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]

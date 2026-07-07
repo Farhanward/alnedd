@@ -1,0 +1,22 @@
+{
+  "processed": 12000,
+  "errors": 0,
+  "owners": {
+    "almandoub": 2315,
+    "alkhaliya": 9635,
+    "alharis_alsahabi": 50
+  },
+  "latency_ms": {
+    "mean": 0.007147633395409987,
+    "p99": 0.013200013199821115
+  },
+  "memory_mb": {
+    "current": 0.395136,
+    "peak": 0.395617
+  },
+  "elapsed_seconds": 0.10197580000385642,
+  "collapse_check": {
+    "passed": true,
+    "criteria": "errors == 0"
+  }
+}
